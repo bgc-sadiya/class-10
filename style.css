@@ -1,0 +1,84 @@
+ /*.box {
+    height: 400px;
+    width: 400px;
+    border: 2px, solid #ab234a;
+}*/ 
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+    margin: auto;
+    height: 500px;
+    width: 350px;
+    border: 3px, solid black; 
+    background-color: #B8860B ;
+}
+.reg{
+    padding-left: 100px;
+    /*border: 1px, solid black;*/
+    height: 30px;
+    width: 250px;
+    margin-bottom: 10px;
+    padding-top: 20px;
+    background-color:#A52A2A;
+    color: white;
+}
+.name{
+    padding-left: 20px;
+}
+.element-1{
+    margin-top: 5px;
+    padding-left: 50px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.mail{
+    padding-left: 20px;
+}
+.element-2{
+    margin-top: 5px;
+    padding-left: 50px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.pass{
+    padding-left: 20px;
+}
+.element-3{
+    margin-top: 5px;
+    padding-left: 50px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.conf-pass{
+    padding-left: 20px;
+}
+.element-4{
+    margin-top: 5px;
+    padding-left: 50px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.number{
+    padding-left: 20px;
+}
+.element-5{
+    margin-top: 5px;
+    padding-left: 50px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.box{
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+.btn{
+    margin-left: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color:#A52A2A;
+    color: white;
+}
